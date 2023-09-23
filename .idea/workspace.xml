@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9d1faa7-9aca-4811-b68b-4ce7af9277f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/callable/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/callable/ExecutorUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/callable/ThreadCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/catchlineal/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/common/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/common/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/common/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/common/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/common/UserComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/comparable/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/deque/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/file/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/generic/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/generic/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/generic/PrinterAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/generic/PrinterParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/hashset/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/inputstream/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/linkedhashset/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/linkedlist/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/map/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/nio2file/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/nio2readwritefile/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/outputstream/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/queue/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/reader/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/regex/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/stack/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/thread/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/thread/Process1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/thread/Process2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/thread/Process3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/treeset/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/investigation/java7/watchservice/App.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2VdYXNkBUB6bwzix2zK4ZHEywmV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/HarryFrank/.sdkman/candidates/gradle/current",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.investigation.java7.treeset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.java7-project [clean]">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.investigation.java7.callable.App" />
+      <module name="java7-project.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.investigation.java7.callable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.investigation.java7.nio2readwritefile.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.investigation.java7.nio2readwritefile.App" />
+      <module name="java7-project.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.investigation.java7.nio2readwritefile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.investigation.java7.thread.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.investigation.java7.thread.App" />
+      <module name="java7-project.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.investigation.java7.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.investigation.java7.watchservice.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.investigation.java7.watchservice.App" />
+      <module name="java7-project.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.investigation.java7.watchservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java7-project [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.java7-project [clean]" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.com.investigation.java7.thread.App" />
+        <item itemvalue="Application.com.investigation.java7.watchservice.App" />
+        <item itemvalue="Application.com.investigation.java7.nio2readwritefile.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9d1faa7-9aca-4811-b68b-4ce7af9277f4" name="Changes" comment="" />
+      <created>1695167465959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695167465959</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
